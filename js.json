@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "img": "https://github.com/raihanchowdhury01/device-img-file/blob/main/alvi.png?raw=true",
+      "title": "Mobile Name 3 ",
+      "discription": {
+        "name": " samsung1",
+        "size": " 5.6\""
+      }
+    },
+    {
+      "id": 2,
+      "img": "https://github.com/raihanchowdhury01/device-img-file/blob/main/alvi.png?raw=true",
+      "title": "Mobile Name 3 ",
+      "discription": {
+        "name": " samsung2",
+        "size": " 5.6\""
+      }
+    },
+    {
+      "id": 3,
+      "img": "https://github.com/raihanchowdhury01/device-img-file/blob/main/alvi.png?raw=true",
+      "title": "Mobile Name 3 ",
+      "discription": {
+        "name": " samsung3",
+        "size": " 5.6\""
+      }
+    }
+  ]
